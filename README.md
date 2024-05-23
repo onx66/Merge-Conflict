@@ -1,4 +1,6 @@
 # Merge-Conflict
-merge-conflict homework
+- merge-conflict homework
 
-- Changes I made on main branch (first-branch)(conflict)!!!!
+
+- Changes I made on main branch (first-branch)(second-branch)(conflict)!!!!
+
